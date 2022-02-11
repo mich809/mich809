@@ -75,7 +75,7 @@ If you want to reach out to me about anything, be it some doubt or just to hango
 <a href="mailto:CaridadMichael@gmail.com">
  <img align="left" alt="Gmail" src="https://github.com/mich809/mich809/blob/main/email_me%402x.png" />
 </a>
-<a href="https://wwww.linkedin.com/in/michaelcaridad">
+<a href="https://www.linkedin.com/in/michaelcaridad">
   <img align="left" alt="Linkedin"  src="https://github.com/mich809/mich809/blob/main/linkedin%402x.png" />
 </br>
 </br>
