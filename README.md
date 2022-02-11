@@ -16,14 +16,18 @@
 <img hight="400" width="500" alt="GIF" align="right" src="https://github.com/mich809/mich809/blob/main/79PI.gif">
 
 ### - Learning :
-- ✨ [React][react]
-- ✨ [PostgreSQL][PostgreSQL]  
+✨ [React][react]
+</br>
+✨ [PostgreSQL][PostgreSQL]  
 
 ### - Hobbies : 
-- ✨ Gaming Addict
-- ✨ Watching Anime
-- ✨ Reading Dystopian Novels
-- ✨ Watching How-to React videos. 
+ ✨ Gaming Addict
+ </br>
+ ✨ Watching Anime
+ </br>
+ ✨ Reading Dystopian Novels
+ </br>
+ ✨ Watching How-to React videos. 
 
 </br>
 </br>
