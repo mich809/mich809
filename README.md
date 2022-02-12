@@ -29,6 +29,25 @@
  </br>
 :star2: Watching Tutorials/Guides on react. 
 
+
+### - Watching : 
+ :star2: Ranking of Kings
+ </br>
+ :star2: Phat Tuesdays
+ </br>
+ 
+ ### - Reading: 
+ :star2: Building Microservices: Designing Fine-Grained Systems
+ </br>
+ :star2: Cracking the Coding Interview: 189 Programming Questions and Solutions
+ </br>
+ 
+ ### - Playing : 
+ :star2: Returnal
+ </br>
+
+
+
 </br>
 </br>
 </br>
