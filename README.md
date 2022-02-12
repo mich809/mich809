@@ -27,7 +27,7 @@
  </br>
  ✨ Reading Dystopian Novels
  </br>
- ✨ Watching How-to React videos. 
+ ✨ Watching Tutorials/Guides on react. 
 
 </br>
 </br>
@@ -36,6 +36,7 @@
 
 
 # Languages & Tools 👨‍💻 🛠:
+</br>
 
 
 <p align="center">
