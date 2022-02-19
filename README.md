@@ -33,7 +33,9 @@
 ### - Watching : 
  :star2: Ranking of Kings
  </br>
- :star2: Phat Tuesdays
+ :star2: Euphoria
+ </br>
+ :star2:  All of Us Are Dead
  </br>
  
  ### - Reading: 
@@ -42,6 +44,7 @@
  :star2: Cracking the Coding Interview: 189 Programming Questions and Solutions
  </br>
  
+
  ### - Playing : 
  :star2: Returnal
  </br>
