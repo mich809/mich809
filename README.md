@@ -30,13 +30,7 @@
 :star2: Watching Tutorials/Guides on react. 
 
 
-### - Watching : 
- :star2: Ranking of Kings
- </br>
- :star2: Euphoria
- </br>
- :star2:  All of Us Are Dead
- </br>
+
  
  ### - Reading: 
  :star2: Building Microservices: Designing Fine-Grained Systems
