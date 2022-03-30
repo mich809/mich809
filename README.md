@@ -13,7 +13,7 @@
 
 ### - I'm a U.S Veteran Full-stack Enthusiast from The Bronx,NY.
 
-<img hight="400" width="500" alt="GIF" align="right" src="https://github.com/mich809/mich809/blob/main/79PI.gif">
+<img hight="400" width="500" alt="GIF" align="right" src="https://github.com/mich809/mich809/blob/main/200.gif?raw=true">
 
 ### - Learning :
 :star2:  [React][react]
@@ -84,7 +84,7 @@
  </br>
 
 
-<img hight="320" width="450" align="right" alt="GIF" src="https://github.com/mich809/mich809/blob/main/yusuke-brun%C3%A3o.gif">
+<img hight="320" width="450" align="right" alt="GIF" src="https://github.com/mich809/mich809/blob/main/203.gif?raw=true">
 
 
 If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me 😉.
