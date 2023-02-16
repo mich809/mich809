@@ -21,13 +21,15 @@
 :star2: [PostgreSQL][PostgreSQL]  
 
 ### - Hobbies : 
- :star2: Gaming Addict
+ :star2: Video Games
  </br>
- :star2: Watching Anime
+ :star2: Baseball
  </br>
  :star2: Reading Dystopian Novels
  </br>
 :star2: Watching Tutorials/Guides on react. 
+ </br>
+:star2: Traveling when I have the funds. 😅 
 
 
 
